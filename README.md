@@ -4,30 +4,26 @@ Welcome to the Electronics and Robotics repository for Year 10 students! This in
 
 # About this Repository
 
-This repository is a comprehensive guide that covers various aspects of electronics and robotics, specifically tailored to Year 10 students. Here, you will find step-by-step tutorials, code examples, and resources to help you understand and apply the concepts effectively. 😊
-Topics Covered
+This repository is a comprehensive guide that covers our classwork for our electronics and robotics unit Here, you will find tutorials, code examples, and resources to help you understand and apply the concepts effectively. 😊
+
+# Topics Covered
 
 ## Throughout this unit, we will explore the following topics:
 
 - Learning about basic electronic components 📚
         Understand the function and use of essential components such as resistors, capacitors, LEDs, and more.
         Learn how to connect components on a breadboard for circuit prototyping.
-        Folder: basic-electronic-components
-
-- Introduction to the BBC:microbit 🎛️
-        Discover the BBC:microbit, a pocket-sized programmable device.
-        Explore its features and learn how to program it to control various electronic circuits and components.
-        Folder: microbit-introduction
+       [[Electronics]]
 
 - Building a Self-Driving Buggy with the MacQueen Bot 🚗
         Dive into the exciting world of robotics by constructing a self-driving buggy.
         Utilize the MacQueen Bot platform and learn how to program it to navigate autonomously.
-        Folder: self-driving-buggy
+        `Folder: self-driving-buggy`
 
 - Competitive Robotics with VEX IQ Kits 🏆
         Get hands-on experience with VEX IQ kits, a popular platform for building competitive robots.
         Learn how to design, build, and program robots for specific challenges and competitions.
-        Folder: vex-iq-robotics
+        `Folder: vex-iq-robotics`
 
 # Instructions
 

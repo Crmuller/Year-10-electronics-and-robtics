@@ -2,14 +2,14 @@ In this section you will be presented with two challenges. It is up to you to co
 
 Once task 0 is complete, they may be completed in any order.
 
-# Task 0 
+# Task 1 
 Your challenge: Make the MacQueen move in a square. There is no mark for this task.
 
 Picture:
 
 Code:
 
-# Task 1
+# Task 2
 Your challenge: Make the buggy follow a line. Use the maps provided
 
 ## Rubric
@@ -20,7 +20,7 @@ Merit: Your buggy can follow the line, turn corners and handles intersections. I
 Excellence: Your buggy follows the line handles all parts of the map and cannot be forced to fail even when deliberately trying. Your code is elegant. 
 
 
-# Task 2:
+# Task 3:
 Your challenge: Solve a maze
 
 ## Rubric

@@ -1,4 +1,4 @@
-Following the [Kitronic Inventors Kit](https://kitronik.co.uk/blogs/resources/kitronik-inventors-kit-resources), complete the 10 activities found in the booklet and get them checked my Mr Ward.
++Following the [Kitronic Inventors Kit](https://kitronik.co.uk/blogs/resources/kitronik-inventors-kit-resources), complete the 10 activities found in the booklet and get them checked my Mr Ward.
 
 You will get a happy emoji next to each part when you have completed it. In each section paste a photo of your board and a screenshot of your working code.
 
@@ -18,7 +18,7 @@ You will get a happy emoji next to each part when you have completed it. In each
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230612125318.png]]
 
 ### 2 [Using an LDR and analog inputs.](https://kitronik.co.uk/blogs/resources/experiment-2-using-an-ldr-analog-inputs/)
 
@@ -31,37 +31,37 @@ My code:
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230612131103.png]]
 
 ### 3 [Dimming an LED using a potentiometer](https://kitronik.co.uk/blogs/resources/inventors-kit-experiment-3-further-help)
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230616121032.png]]
 
 ### 4  [Using a transistor to drive a motor.](https://kitronik.co.uk/blogs/resources/experiment-4-using-a-transistor-to-drive-a-motor/)
 
-Picture:
+Picture: 
 
-My code:
+My code:![[Pasted image 20230623114703.png]]                                                                                                                                                                                                                                                                                                                                                                             
 
 ### 5 [Using the accelerometer to control motor speed](https://kitronik.co.uk/blogs/resources/inventors-kit-experiment-5-further-help)
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230623115238.png]]    
 
 ### 6 [Setting the tone with a piezo buzzer](https://kitronik.co.uk/blogs/resources/inventors-kit-experiment-6-help)
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230623115853.png]]                
 
 ### 7 [Wind Power](https://kitronik.co.uk/blogs/resources/experiment-7-wind-power)
 
 Picture:
 
-My code:
+My code:![[Pasted image 20230628094737.png]]
 
 
 ### 8 [Making a game using the compass](https://kitronik.co.uk/blogs/resources/inventors-kit-experiment-8-further-help)

@@ -39,23 +39,19 @@ Provide a screenshot of your code (blocks, JS or python), a photo of your micro:
 
 ## Project 1 - Beginner 👶
 
-### Screenshot of the code
-
-### A photo of your microbit
+![[Pasted image 20230607093411.png]]
 
 ### How did you improve it?
-
+by adding a melody and making the intervals between signals smaller also finding a way to stop the animation
 ## Project 2 - Intermedite 👩‍🔧
 ### Screenshot of the code
-
-### A photo of your microbit
+![[Pasted image 20230607094346.png]]
 
 ### How did you improve it?
-
+by adding a sound that plays when it points north and cutting down the interval between changes
 ## Project 3 - Advanced 👨‍🎓
 ### Screenshot of the code
-
-### A photo of your microbit
+![[Pasted image 20230612122756.png]]
 
 ### How did you improve it?
-
+by adding a longer pause time and making it display an icon depending on amount of light
